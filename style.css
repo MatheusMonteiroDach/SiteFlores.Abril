@@ -121,7 +121,7 @@ body {
   }
   .institucional {
     position: relative;
-    background-image: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d'); /* substitua com sua imagem */
+    background-image: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@ body {
   }
   
   .institucional-overlay {
-    background-color: rgba(0, 0, 0, 0.5); /* camada escura pra contraste */
+    background-color: rgba(0, 0, 0, 0.5); 
     padding: 60px 0;
   }
   
